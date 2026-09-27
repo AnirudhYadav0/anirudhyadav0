@@ -1,37 +1,118 @@
-<h1 align="center">Hi 👋, I'm Anirudh Yadav</h1>
-<h3 align="center">BCA Final Year Student|Full-Stack Developer|Tech Enthusiast</h3>
+# Hi 👋, I'm Anirudh Yadav
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhyadav0&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhyadav0" /> </p>
+### BCA Final Year Student | Full-Stack Developer | MERN Stack | AI Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhyadav0" alt="anirudhyadav0" /></a> </p>
+I'm a BCA final-year student passionate about building modern, scalable web applications and learning new technologies. I enjoy turning ideas into real-world projects using the MERN stack.
 
-- 🔭 I’m currently working on [TripNexus - AI Powered Travel Planner Platform](https://github.com/AnirudhYadav0/TripNexus)
+---
 
-- 🌱 I’m currently learning **Advanced MERN Stack,AI/ML & Data Structures & Algorithms**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **MERN Stack & AI based project**
+- 🎓 BCA Final Year Student
+- 💻 Interested in Full-Stack Web Development
+- ⚛️ Working with React.js, Node.js & Express.js
+- 🗄️ Experience with MongoDB & MySQL
+- 🤖 Exploring AI/ML and AI-powered applications
+- 🧠 Currently improving my Data Structures & Algorithms
+- 🤝 Open to collaborating on MERN Stack & AI-based projects
+- 📚 Always learning and building new projects
 
-- 🤝 I’m looking for help with **Advanced React.js,Backend Development & AI Integration**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnirudhYadav0](https://github.com/AnirudhYadav0)
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **React.js,MERN Stack,JavaScript & Full-Stack Development**
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 📫 How to reach me **anirudhyadav2603@gmail.com**
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-- ⚡ Fun fact **I love building projects and learning new technologies.**
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anirudh1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh1801" height="30" width="40" /></a>
-<a href="https://instagram.com/ritik.___yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik.___yadav_" height="30" width="40" /></a>
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔐 Authentication & Tools
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ TripNexus — AI-Powered Travel Planner
+
+An AI-powered travel planning application that generates personalized travel itineraries and budget breakdowns based on destination, duration, travellers, budget, travel style and interests.
+
+**Tech Stack:** React.js, Vite, Node.js, Express.js, AI Integration, REST API
+
+🔗 [View Repository](https://github.com/AnirudhYadav0/TripNexus)
+
+---
+
+### 🎓 EnterSkill Hub
+
+A full-stack skill development platform designed to provide users with access to skills, business ideas, tasks and a personalized dashboard.
+
+**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB Atlas, JWT, Axios
+
+🔗 [View Repository](https://github.com/AnirudhYadav0/EnterSkill-Hub)  
+🌐 [Live Demo](https://enter-skill-hub-one.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhyadav0&show_icons=true&theme=tokyonight&hide_border=true" alt="Anirudh's GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhyadav0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhyadav0&show_icons=true&locale=en&layout=compact" alt="anirudhyadav0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhyadav0&show_icons=true&locale=en" alt="anirudhyadav0" /></p>
+## 🔥 GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhyadav0&" alt="anirudhyadav0" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhyadav0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/anirudhyadav0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anirudh1801/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+📫 **Email:** anirudhyadav2603@gmail.com
+
+---
+
+### ⚡ Fun Fact
+
+> I enjoy turning ideas into real-world web applications and continuously learning new technologies.
+
+---
+
+⭐ **Thanks for visiting my profile!**
