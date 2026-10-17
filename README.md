@@ -53,26 +53,8 @@ I'm a BCA final-year student passionate about building modern, scalable web appl
 
 ## 🚀 Featured Projects
 
-### ✈️ TripNexus — AI-Powered Travel Planner
-
-An AI-powered travel planning application that generates personalized travel itineraries and budget breakdowns based on destination, duration, travellers, budget, travel style and interests.
-
-**Tech Stack:** React.js, Vite, Node.js, Express.js, AI Integration, REST API
-
-🔗 [View Repository](https://github.com/AnirudhYadav0/TripNexus)
-  ~ [Live Demo](https://tripnexus-client.onrender.com)
-
----
-
-### 🎓 EnterSkill Hub
-
-A full-stack skill development platform designed to provide users with access to skills, business ideas, tasks and a personalized dashboard.
-
-**Tech Stack:** React.js, Vite, Node.js, Express.js, MongoDB Atlas, JWT, Axios
-
-🔗 [View Repository](https://github.com/AnirudhYadav0/EnterSkill-Hub)  
-🌐 [Live Demo](https://enter-skill-hub-one.vercel.app)
-
+<!-- AUTO-PROJECTS:START -->
+<!-- AUTO-PROJECTS:END -->
 ---
 
 ## 📊 GitHub Stats
