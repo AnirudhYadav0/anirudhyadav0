@@ -60,6 +60,7 @@ An AI-powered travel planning application that generates personalized travel iti
 **Tech Stack:** React.js, Vite, Node.js, Express.js, AI Integration, REST API
 
 🔗 [View Repository](https://github.com/AnirudhYadav0/TripNexus)
+  ~ [Live Demo](https://tripnexus-client.onrender.com)
 
 ---
 
