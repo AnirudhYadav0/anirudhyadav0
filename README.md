@@ -24,6 +24,8 @@
 
 # 🌙 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer coding at a computer"/>
+
 ```javascript
 const anirudh = {
   role: "Full-Stack Developer (BCA Final Year)",
@@ -42,6 +44,8 @@ const anirudh = {
 - 🧠 Improving my Data Structures & Algorithms
 - 🤝 Open to collaborating on MERN and AI projects
 - 📚 Always learning and building something new
+
+<br clear="right"/>
 
 ---
 
