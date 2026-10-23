@@ -59,7 +59,7 @@ I'm a BCA final-year student passionate about building modern, scalable web appl
 ### [My_Portfolio](https://github.com/AnirudhYadav0/My_Portfolio)
 No description added yet.
 
-- **Live Demo:** Not configured
+- **Live Demo:** [Open website](https://neonverse-portfolio.onrender.com)
 - **Main language:** JavaScript
 - **Updated:** 2026-10-20
 
@@ -79,12 +79,6 @@ No description added yet.
 - **Main language:** JavaScript
 - **Updated:** 2026-07-15
 
-### [simple-calculator-python](https://github.com/AnirudhYadav0/simple-calculator-python)
-Simple calculator using Python
-
-- **Live Demo:** Not configured
-- **Main language:** Python
-- **Updated:** 2026-01-29
 
 <!-- AUTO-PROJECTS:END -->
 ---
