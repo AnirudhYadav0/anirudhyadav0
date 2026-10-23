@@ -10,6 +10,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=AnirudhYadav0&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
 
+<br><br>
+
+<a href="#-about-me">About</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#%EF%B8%8F-tech-stack">Stack</a> •
+<a href="#-lets-collaborate">Collaborate</a> •
+<a href="#-connect">Connect</a>
+
 </div>
 
 ---
@@ -90,6 +98,10 @@ No description added yet.
 
 <img src="https://ghchart.rshah.org/00d4ff/AnirudhYadav0" alt="Contribution Calendar" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhYadav0&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+
 </div>
 
 ---
@@ -113,7 +125,22 @@ No description added yet.
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
+### 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,githubactions,jest,linux" />
+
 </div>
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm open to working on:
+
+- ⚛️ MERN stack web apps (React, Node, Express, MongoDB)
+- 🤖 AI-powered products and tools
+- 🧪 Open-source issues where I can learn and contribute
+
+Got an idea or a bug to squash? Reach out below. 👇
 
 ---
 
@@ -142,5 +169,7 @@ No description added yet.
 > *I enjoy turning ideas into real-world web applications and continuously learning new technologies.*
 
 ### 🌃 Building Tomorrow, One Commit At A Time
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
 </div>
