@@ -59,7 +59,7 @@ I'm a BCA final-year student passionate about building modern, scalable web appl
 ### [My_Portfolio](https://github.com/AnirudhYadav0/My_Portfolio)
 No description added yet.
 
-- **Live Demo:** [Open website](https://neonverse-portfolio.onrender.com)
+- **Live Demo:** Not configured
 - **Main language:** JavaScript
 - **Updated:** 2026-10-23
 
