@@ -57,7 +57,7 @@ const anirudh = {
 ### [My_Portfolio](https://github.com/AnirudhYadav0/My_Portfolio)
 No description added yet.
 
-- **Live Demo:** Not configured
+- **Live Demo:** [Open website](https://neonverse-portfolio.onrender.com)
 - **Main language:** JavaScript
 - **Updated:** 2026-10-23
 
