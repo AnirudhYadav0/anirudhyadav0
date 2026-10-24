@@ -57,25 +57,25 @@ const anirudh = {
 ### [My_Portfolio](https://github.com/AnirudhYadav0/My_Portfolio)
 No description added yet.
 
-- **Live Demo:** [Open website](https://neonverse-portfolio.onrender.com)
+- **Live Demo:** Not configured
 - **Main language:** JavaScript
 - **Updated:** 2026-10-23
 
 ### [TripNexus](https://github.com/AnirudhYadav0/TripNexus)
-AI-powered travel planning platform
+⭐️ AI-powered travel planner that generates personalized itineraries and budget breakdown using Google Gemini AI.
 
 - **Live Demo:** [Open website](https://tripnexus-client.onrender.com)
 - **Last check:** Online
 - **Main language:** JavaScript
-- **Updated:** 2026-10-07
+- **Updated:** 2026-10-23
 
 ### [EnterSkill-Hub](https://github.com/AnirudhYadav0/EnterSkill-Hub)
-No description added yet.
+⭐️ Full-stack development platform built with the MERN stack, featuring JWT authentication, skill management, business ideas, and task tracking.
 
 - **Live Demo:** [Open website](https://enter-skill-hub-one.vercel.app)
 - **Last check:** Online
 - **Main language:** JavaScript
-- **Updated:** 2026-07-15
+- **Updated:** 2026-10-23
 
 <!-- AUTO-PROJECTS:END -->
 
