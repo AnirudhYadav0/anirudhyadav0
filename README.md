@@ -58,8 +58,8 @@ const anirudh = {
 No description added yet.
 
 - **Live Demo:** Not configured
-- **Main language:** Python
-- **Updated:** 2026-10-25
+- **Main language:** TypeScript
+- **Updated:** 2026-10-26
 
 ### [EnterSkill-Hub](https://github.com/AnirudhYadav0/EnterSkill-Hub)
 ⭐️ Full-stack development platform built with the MERN stack, featuring JWT authentication, skill management, business ideas, and task tracking.
